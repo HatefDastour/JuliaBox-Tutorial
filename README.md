@@ -1,2 +1,5 @@
-# JuliaBox-Tutorial
-JuliaBox lets data scientists, quants and strats run Julia in Jupyter notebooks right in the browser. JuliaBox is the number one choice for universities teaching Julia since students can start using Julia in seconds with no installation required
+# Python-Tutorial
+
+To load this repo directly into your ucalgary syzygy account, click here:
+
+https://ucalgary.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/HatefDastour/JuliaBox-Tutorial
